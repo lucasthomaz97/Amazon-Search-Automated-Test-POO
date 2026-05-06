@@ -1,4 +1,4 @@
-# Auto Amazon Search
+# Amazon Search Automated Test POO
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
