@@ -1,0 +1,4 @@
+cucumber_web_report.html linguist-generated=true
+features.html linguist-generated=true
+report.json linguist-generated=true
+*.rb linguist-language=Ruby
